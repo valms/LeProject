@@ -11,7 +11,6 @@ public class Operacoes {
 
 		return soma;
 	}
-
 	public static float diferenca(float... param) {
 		float diferenca = 0.00000f;
 
